@@ -1,6 +1,5 @@
 Version v1.0.0
-# Create and Manage Microsoft Sentinel(SIEM) and Log analytics and Dedicated Log analytics clusters in Azure
-
+# Create and Manage Microsoft Sentinel(SIEM) and Log analytics - Test Repo
 ## Changelog
 
 
